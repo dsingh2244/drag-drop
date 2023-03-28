@@ -1,1 +1,1 @@
-# drag one cell's content to another cell and drop. This will exchange the cell's content. you con undo your last move only.
+# Drag and drop the contents of one cell to another cell. This will exchange the contents of the cell. You only undo your last move.
